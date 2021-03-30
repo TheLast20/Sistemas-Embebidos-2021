@@ -2,7 +2,7 @@
 Bienvenidos al curso práctico de Sistema Embebidos.
 En el canal de Sistemas Embebidos (Enlaces a un sitio externo.)Enlaces a un sitio externo. se subirán todas las clases realizadas para que esté a su disposición en caso de requerir revisar las mismas.
 El siguiente video es un breve ejemplo de lo que se ha conseguido realizar en proyectos utilizando sistemas embebidos.
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ## Practica #1: Introducción (02/03/2021 - 07/03/2021)
 - Conocer las tarjetas de desarrollo, que se utilizarán en el transcurso
