@@ -1,6 +1,7 @@
 # Sistemas-Embebidos-2021
 Bienvenidos al curso práctico de Sistema Embebidos.
-En el canal de Sistemas Embebidos (https://www.youtube.com/channel/UCrSmDebdITUTvWtJxwGpzIQ). Se subirán todas las clases realizadas para que esté a su disposición en caso de requerir revisar las mismas.
+En el canal de Sistemas Embebidos (https://www.youtube.com/channel/UCrSmDebdITUTvWtJxwGpzIQ). 
+Se subirán todas las clases realizadas para que esté a su disposición en caso de requerir revisar las mismas.
 
 ## Practica #1: Introducción (02/03/2021 - 07/03/2021)
 - Conocer las tarjetas de desarrollo, que se utilizarán en el transcurso
